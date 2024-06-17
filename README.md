@@ -1,3 +1,3 @@
 # Site Layout
 
-Site layout: https://lopitalsergei.github.io/Task1-SiteLayout/
+Site layout: [View the page](https://lopitalsergei.github.io/Task1-SiteLayout/)
